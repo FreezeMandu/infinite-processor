@@ -1,8 +1,8 @@
 {
- "name": "infiniteProcessor-v7",
+ "name": "infiniteProcessor",
  "displayName": "Infinite Processor V7",
  "author": "Mandu",
- "version": "2.0",
+ "version": "2.01",
  "minGameVersion": "138",
  "description": "search 'Logic Bench'(deleted) in schematics!"
 }
