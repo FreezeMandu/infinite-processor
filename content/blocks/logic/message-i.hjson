@@ -1,0 +1,10 @@
+type: MessageBlock
+size: 1
+health: 10000
+
+maxNewlines: 2000
+maxTextLength: 16000
+
+category: logic
+alwaysUnlocked: true
+buildVisibility: "shown"

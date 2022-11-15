@@ -1,0 +1,9 @@
+type: MemoryBlock
+health: 5000
+size: 2
+
+memoryCapacity: 4094
+
+category: logic
+alwaysUnlocked: true
+buildVisibility: "shown"

@@ -1,0 +1,9 @@
+type: LogicDisplay
+health: 50000
+
+size: 3
+displaySize: 96
+
+category: effect
+alwaysUnlocked: true
+buildVisibility: "shown"
