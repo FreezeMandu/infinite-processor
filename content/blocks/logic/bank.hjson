@@ -2,7 +2,7 @@ type: MemoryBlock
 health: 5000
 size: 2
 
-memoryCapacity: 4094
+memoryCapacity: 16384
 
 category: logic
 alwaysUnlocked: true
